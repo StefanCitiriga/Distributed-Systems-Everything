@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\bin\Debug\net6.0\SearchSpaceSplitExample.exe
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\bin\Debug\net6.0\SearchSpaceSplitExample.deps.json
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\bin\Debug\net6.0\SearchSpaceSplitExample.runtimeconfig.json
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\bin\Debug\net6.0\SearchSpaceSplitExample.dll
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\bin\Debug\net6.0\SearchSpaceSplitExample.pdb
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.dll
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\refint\SearchSpaceSplitExample.dll
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.pdb
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\SearchSpaceSplitExample.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\MultithreadExample\SearchSpaceSplitExample\obj\Debug\net6.0\ref\SearchSpaceSplitExample.dll

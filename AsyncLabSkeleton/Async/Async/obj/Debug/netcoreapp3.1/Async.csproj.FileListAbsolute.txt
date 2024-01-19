@@ -1,0 +1,13 @@
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.csprojAssemblyReference.cache
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfoInputs.cache
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.AssemblyInfo.cs
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.csproj.CoreCompileInputs.cache
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.exe
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.deps.json
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.json
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.runtimeconfig.dev.json
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.dll
+C:\Box\Box Sync\Projects\Async\Async\bin\Debug\netcoreapp3.1\Async.pdb
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.dll
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.pdb
+C:\Box\Box Sync\Projects\Async\Async\obj\Debug\netcoreapp3.1\Async.genruntimeconfig.cache

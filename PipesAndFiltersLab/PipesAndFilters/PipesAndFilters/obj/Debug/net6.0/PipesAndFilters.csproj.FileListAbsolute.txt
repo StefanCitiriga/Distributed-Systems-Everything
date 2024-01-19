@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.exe
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.deps.json
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.runtimeconfig.json
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.dll
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\bin\Debug\net6.0\PipesAndFilters.pdb
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.dll
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\refint\PipesAndFilters.dll
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.pdb
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\PipesAndFilters.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\PipesAndFiltersLab\PipesAndFilters\PipesAndFilters\obj\Debug\net6.0\ref\PipesAndFilters.dll

@@ -1,0 +1,13 @@
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.exe
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.dll
+C:\Box\Box Sync\Projects\Async\Server\bin\Debug\netcoreapp3.1\Server.pdb
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.dll
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.pdb
+C:\Box\Box Sync\Projects\Async\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\bin\Debug\net6.0\ThreadVsThreadpool.exe
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\bin\Debug\net6.0\ThreadVsThreadpool.deps.json
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\bin\Debug\net6.0\ThreadVsThreadpool.runtimeconfig.json
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\bin\Debug\net6.0\ThreadVsThreadpool.dll
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\bin\Debug\net6.0\ThreadVsThreadpool.pdb
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.csproj.AssemblyReference.cache
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.AssemblyInfoInputs.cache
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.AssemblyInfo.cs
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.dll
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\refint\ThreadVsThreadpool.dll
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.pdb
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ThreadVsThreadpool.genruntimeconfig.cache
+C:\Users\Stefan\Desktop\MultithreadExample\ThreadVsThreadpool\obj\Debug\net6.0\ref\ThreadVsThreadpool.dll

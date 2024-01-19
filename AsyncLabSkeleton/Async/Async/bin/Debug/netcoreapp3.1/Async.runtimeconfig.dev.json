@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DCS-Streaming2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DCS-Streaming2\\.nuget\\packages"
+    ]
+  }
+}
